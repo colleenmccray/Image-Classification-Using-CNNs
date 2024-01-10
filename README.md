@@ -11,7 +11,7 @@ The primary objective of this project is to build a Convolutional Neural Network
 
 #### Data Dictionary
 
-The dataset, provided by the Aarhus University Signal Processing group in collaboration with the University of Southern Denmark, includes images of unique plants from 12 different species. To facilitate seamless data/project handling, the images are stored in the images.npy file, and corresponding labels are available in Labels.csv.
+The dataset, provided by the Aarhus University Signal Processing group in collaboration with the University of Southern Denmark, includes images of unique plants from 12 different species. To facilitate seamless data/project handling, the images are stored in the images.npy [download large file]:(https://drive.google.com/file/d/1d9pg5kem0jtfbtWKrdY68moAdSQu7sKn/view?usp=share_link) file, and corresponding labels are available in Labels.csv.
 
 #### **List of Species**
 1. Black-grass
